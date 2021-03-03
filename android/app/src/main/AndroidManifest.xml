@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.shoppercounter">
+  package="ca.acesoft.shoppercounterdisplay">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

@@ -1,4 +1,4 @@
-package com.shoppercounter;
+package ca.acesoft.shoppercounterdisplay;
 
 import com.facebook.react.ReactActivity;
 

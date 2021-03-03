@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.shoppercounter"
+        applicationId "ca.acesoft.shoppercounterdisplay"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

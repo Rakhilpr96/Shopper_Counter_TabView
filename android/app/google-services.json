@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:894400113551:android:949e7432a530b895c5b9fa",
         "android_client_info": {
-          "package_name": "com.shoppercounter"
+          "package_name": "ca.acesoft.shoppercounterdisplay"
         }
       },
       "oauth_client": [
