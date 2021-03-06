@@ -10,6 +10,7 @@ target 'ShopperCounter' do
   use_react_native!(:path => config["reactNativePath"])
 
 
+
   target 'ShopperCounterTests' do
     inherit! :complete
     # Pods for testing
